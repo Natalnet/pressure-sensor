@@ -1,7 +1,7 @@
 # FSR-sensor
 Force Sensor Resistor, it detects physical pressure which changes its resistance when a force or pressure is applied.
 
-
+![Circuit](https://user-images.githubusercontent.com/89589831/175819253-d190b07d-48bd-44ff-b732-99d5664948bd.jpeg))
 
 
 ### References

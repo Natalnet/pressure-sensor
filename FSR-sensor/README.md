@@ -18,7 +18,7 @@ The sensor has two pins, the right and the left one.
 
 
 
-![Circuit](https://user-images.githubusercontent.com/89589831/175819253-d190b07d-48bd-44ff-b732-99d5664948bd.jpeg))
+![Circuit](https://user-images.githubusercontent.com/89589831/175819253-d190b07d-48bd-44ff-b732-99d5664948bd.jpeg)
 
 
 ### References

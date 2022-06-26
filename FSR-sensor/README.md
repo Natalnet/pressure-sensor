@@ -1,6 +1,5 @@
-# FSR-sensor
-Force Sensor Resistor, it detects physical pressure which changes its resistance when a force or pressure is applied.
-
+# FSR-sensorth
+Force Sensor Resistor, it detects physical pressure which changes its resistance when a force or pressure is applied. The higher the pressure, more conductive material will contact to the wires
 ## Circuit
 The sensor has two pins, the right and the left one.
 

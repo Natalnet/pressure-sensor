@@ -7,8 +7,8 @@ Force Sensor Resistor, it detects physical pressure which changes its resistance
 ## FSR information
 
 - FSR 402
-- Active part: 12,7mm
-- Sensitivity: 0.1N a 10.0²N
+-** Active part:** 12,7mm
+- **Sensitivity:** 0.1N a 10.0²N
 
 
 ## Circuit

@@ -12,6 +12,24 @@ Force Sensor Resistor, it detects physical pressure which changes its resistance
 
 ## Apllication 
 
+It must show us, on the monitor serial, information in Newton and Pascal. The usual answer is in millivolts, and it doesn't help us while we're trying to analyze the data we recieved .
+
+This is the formula needed to calculate the resistance:
+ - Rfsr = sensor’s resistance 
+ - Vcc = supply voltage (we’re using 5V)
+ - U = measured voltage 
+ - R1 = resistance of the pull-down resistor 
+
+
+![Img. 2](https://user-images.githubusercontent.com/89589831/175950357-a65712df-8a8a-41fb-a32a-d6d6ac32dbab.png)
+
+
+After doing it, we will need to know the electrical conductance :
+
+It’s easy to see that the electrical conductance is the opposite of the electrical resistance.
+
+![Img. 3](https://user-images.githubusercontent.com/89589831/175951223-72508f11-a1ae-453a-a457-4676292dfc39.jpeg)
+
 
 ## Circuit
 The sensor has two pins, the right and the left one.

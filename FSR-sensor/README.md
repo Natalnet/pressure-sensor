@@ -1,4 +1,4 @@
-# FSR-sensor
+# FSR-sensor (english)
 Force Sensor Resistor, it detects physical pressure which changes its resistance when a force or pressure is applied. The higher the pressure, more conductive material will contact to the wires
 
 ![Img. 1](https://user-images.githubusercontent.com/89589831/175841407-2f120a7c-c3ec-4b06-8f27-fa62ea024843.png)

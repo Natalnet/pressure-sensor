@@ -17,7 +17,7 @@ Force Sensor Resistor, it detects physical pressure which changes its resistance
 The sensor has two pins, the right and the left one.
 
 **1. LEFT PIN:**
-- We're going to connect only to the CVV (5V) -- red cable 
+- We're going to connect only to the VCC (5V) -- red cable 
 
 
 **2. RIGHT PIN:**

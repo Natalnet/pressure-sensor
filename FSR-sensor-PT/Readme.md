@@ -24,18 +24,18 @@ Essa é a fórmula que vamos usar pra calcular a resistência:
 ![Img. 2](https://user-images.githubusercontent.com/89589831/175950357-a65712df-8a8a-41fb-a32a-d6d6ac32dbab.png)
 
 
-After doing it, we will need to know the electrical conductance :
+Após fazer isso, temos que saber a condutância elétrica:
 
-It’s easy to see that the electrical conductance is the opposite of the electrical resistance.
+Ao comparar as fórmulas, é fácil de perceber que a contutãncia elétrica é o oposto da resistência elétrica.
 
 ![Img. 3](https://user-images.githubusercontent.com/89589831/175951223-72508f11-a1ae-453a-a457-4676292dfc39.jpeg)
 
 
-## Circuit
-The sensor has two pins, the right and the left one.
+## Circuito
+O sensor possui dois pinos, o direito e o esquerdo.
 
 **1. LEFT PIN:**
-- We're going to connect only to the VCC (5V) -- red cable 
+- Iremos conectar o esquerdo apenas com o VCC (5V) -- cabo vermelho 
 
 
 **2. RIGHT PIN:**

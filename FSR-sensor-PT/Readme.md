@@ -34,24 +34,23 @@ Ao comparar as fórmulas, é fácil de perceber que a contutãncia elétrica é 
 ## Circuito
 O sensor possui dois pinos, o direito e o esquerdo.
 
-**1. LEFT PIN:**
+**1. PINO ESQUERDO:**
 - Iremos conectar o esquerdo apenas com o VCC (5V) -- cabo vermelho 
 
 
-**2. RIGHT PIN:**
-- First, we're going to get a 10kohm resistor and put one of its pin here and the other on a free spot inside the breadboard
+**2. PINO DIREITO:**
+- Primeiro, iremos pegar um resistor de 10Kohm e colocar um dos seus pinos alinhados com o pino direito do sensor, e o outro iremos colocar em um espaço vazio na nossa protoboard.
 
 
-**3. CONNECTIONS WITH THE RESISTOR:**
-- Above the resistor, we're going to connect on the analog input on the Arduino -- blue cable
-- Under the resistor, we're goin to connect to the GND (ground) -- black cable
-
+**3. CONECÇÕES COM O RESISTOR:**
+- Acima do resistor, nós vamos conectar na entrada analógica no Arduíno -- cabo azul
+- Abaixo do resistor, vamos conectar com o GND -- cabo preto
 
 
 ![Circuit](https://user-images.githubusercontent.com/89589831/175819253-d190b07d-48bd-44ff-b732-99d5664948bd.jpeg)
 
 
-### References
+### Referência
 https://www.caplinq.com/blog/force-sensitive-resistor-fsr-sensor_1638/#:~:text=A%20force%20sensitive%20resistor%20(FSR,physical%20pressure%2C%20squeezing%20and%20weight.
 
 https://www.elprocus.com/force-sensing-resistor-technology/

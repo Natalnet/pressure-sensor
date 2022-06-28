@@ -4,21 +4,21 @@ Sensor de Força Resistiva, ele detecta pressão física e muda a resistência q
 ![Img. 1](https://user-images.githubusercontent.com/89589831/175841407-2f120a7c-c3ec-4b06-8f27-fa62ea024843.png)
 
 
-## FSR information
+## Informações do FSR
 
 - FSR 402
-- **Active part:** 12,7mm
-- **Sensitivity:** 0.1N a 10.0²N
+- **Parte ativa:** 12,7mm
+- **Sensibilidade:** 0.1N a 10.0²N
 
-## Apllication 
+## Aplicação
 
-It must show us, on the monitor serial, information in Newton and Pascal. The usual answer is in millivolts, and it doesn't help us while we're trying to analyze the data we recieved .
+Devemos ver, no monitor serial, informações em Newton e em Pascal. Normalmente, o valor retornado é em milivolts, porém essa unidade de mendida não nos ajuda na análise dos dados.
 
-This is the formula needed to calculate the resistance:
- - Rfsr = sensor’s resistance 
- - Vcc = supply voltage (we’re using 5V)
- - U = measured voltage 
- - R1 = resistance of the pull-down resistor 
+Essa é a fórmula que vamos usar pra calcular a resistência:
+ - Rfsr = resistência do sensor
+ - Vcc = tensão de saída do Arduíno (estamos usando 5V)
+ - U = tensão medida
+ - R1 = resistência do pull-down 
 
 
 ![Img. 2](https://user-images.githubusercontent.com/89589831/175950357-a65712df-8a8a-41fb-a32a-d6d6ac32dbab.png)

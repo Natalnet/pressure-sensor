@@ -1,2 +1,2 @@
-# pressure-and-ECG-sensor
-Repositório para armazenar os códigos dos sensores de pressão e ECG.
+# Pressure-sensor
+Repositório para armazenar os códigos do sensor de pressão.
